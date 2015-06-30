@@ -1,6 +1,6 @@
 local function printUsage()
 	print("Usage:")
-	print("bcget <filename>")
+	print("bcgdl <filename>")
 end
 
 term.setTextColor(256)
